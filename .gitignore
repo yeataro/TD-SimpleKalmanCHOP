@@ -1,3 +1,14 @@
+#===TouchDesigner===
+
+#backup
+Backup/
+
+#Crash
+*.dmp
+CrashAutoSave.*
+
+#===CPP===
+
 # Prerequisites
 *.d
 
